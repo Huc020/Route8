@@ -1,0 +1,25 @@
+commit 0f6b975955ec577c8653e46fb6c7f2b62a8daf7a
+Author: wiz124 <hli16492@gmail.com>
+Date:   Wed Jan 28 01:52:52 2026 +0000
+
+    resolved conflict
+
+commit a40b9f6a6a19da11a1d8242221342dee1ed37d1c
+Author: Huc020 <Huc020@ucsd.edu>
+Date:   Wed Jan 28 01:32:12 2026 +0000
+
+    partner a
+
+commit f647a98678f95db15a821b7f9df4202aaf13700c
+Author: Huc020 <Huc020@gmail.com>
+Date:   Tue Jan 27 23:07:01 2026 +0000
+
+    A: edit README from Colab
+
+commit cb596c52cfcb4d1099430ea0d1ae9410c727e0fe
+Author: Huc020 <huc020@ucsd.edu>
+Date:   Tue Jan 27 14:58:51 2026 -0800
+
+    Initial commit
+origin	https://github.com/Huc020/Route8.git (fetch)
+origin	https://github.com/Huc020/Route8.git (push)
